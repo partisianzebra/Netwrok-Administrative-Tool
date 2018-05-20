@@ -9,7 +9,7 @@ Run the code
 There will be a server side program and a client side program where both the programs can be executed in a same system or different systems. Multiple clients can be shut down at a time.
 
 
-If you havve any doubt please feel free to contact me through partisianzebra@gmail.com.
+If you have any doubt please feel free to contact me through partisianzebra@gmail.com.
 
 
 
